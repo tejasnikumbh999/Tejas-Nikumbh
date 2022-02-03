@@ -1,0 +1,21 @@
+A,B =input().split()
+A=int(A)
+B=int(B)
+while A!=B:
+    if A > B:
+        s = B
+        l = A
+    else:
+        s = A
+        l = B
+    HCF = l-s
+    if s==HCF:
+        print(s)
+        break
+    else:
+        A=s
+        B=HCF
+        continue
+
+if A==B:
+    print(A)
