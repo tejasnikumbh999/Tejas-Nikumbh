@@ -12,6 +12,7 @@ I'm a Data Scientist 💻, Bagpacker 🏕️, and Designer 🎨!
 I love processing and learning from the data. I love the challenge of finding caches and spending time to meet new people. 
 
 ### 🤝 Connect with me:
+<img width="25%" align="right" alt="Github" src="https://github.com/immangeek/immangeek/raw/main/Hand.gif" />
 
 <a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
