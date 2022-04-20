@@ -62,13 +62,17 @@ I love processing and learning from the data. I love the challenge of finding ca
 </td>
 
 <td align="center" width="33%">
-<img height=70px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
+<img height=70px src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"> 
 </td>
 
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
+</td>
+     
 </tr>
 
  <tr>
@@ -81,7 +85,11 @@ I love processing and learning from the data. I love the challenge of finding ca
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+</td>
+     
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
 
 </tr>
