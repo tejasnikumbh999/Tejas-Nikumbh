@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/tejasnikumbh999/Tejas-Nikumbh/main/Blue%20and%20Off%20White%20Simple%20Blocks%20Food%20and%20Restaurants%20Personal%20Email%20Signature.png" alt="Yu Shi | LinkedIn" width="210px"/>
+<img align="left" src="https://raw.githubusercontent.com/tejasnikumbh999/Tejas-Nikumbh/main/Blue%20and%20Off%20White%20Simple%20Blocks%20Food%20and%20Restaurants%20Personal%20Email%20Signature.png" alt="Yu Shi | LinkedIn" width="21000px"/>
 
 <h1 align="center">
 Hi there, I'm Tejas Nikumbh 👋
