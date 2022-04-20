@@ -38,5 +38,6 @@ I love processing and learning from the data. I love the challenge of finding ca
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnikumbh999&layout=compact)](https://github.com/tejasnikumbh999)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=tejasnikumbh999.tejasnikumbh999)]
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=tejasnikumbh999)
+[![Github](https://img.shields.io/github/followers/tejasnikumbh999?label=Follow&style=social)](https://github.com/tejasnikumbh999)
 
