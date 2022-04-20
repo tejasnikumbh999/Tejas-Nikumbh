@@ -57,38 +57,38 @@ I love processing and learning from the data. I love the challenge of finding ca
 <table>
 <tbody>
  <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=70px src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </td>
      
 </tr>
 
  <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
      
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
 
