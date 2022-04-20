@@ -89,7 +89,7 @@ I love processing and learning from the data. I love the challenge of finding ca
 </td>
      
 <td align="center" width="25%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
 </td>
 
 </tr>
