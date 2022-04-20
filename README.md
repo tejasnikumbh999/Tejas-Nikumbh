@@ -1,3 +1,5 @@
+(https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)
+
 <h1 align="center">
 Hi there, I'm Tejas Nikumbh 👋
 </h1>
