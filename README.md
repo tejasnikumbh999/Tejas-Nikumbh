@@ -31,8 +31,7 @@ I love processing and learning from the data. I love the challenge of finding ca
 
 
 ## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tejasnikumbh999)](https://github.com/tejasnikumbh999)
+[![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=tejasnikumbh999&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/tejasnikumbh999/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejasnikumbh999&layout=compact)](https://github.com/tejasnikumbh999)
 
