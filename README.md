@@ -1,9 +1,4 @@
-(https://raw.githubusercontent.com/tejasnikumbh999/Tejas-Nikumbh/main/Blue%20and%20Off%20White%20Simple%20Blocks%20Food%20and%20Restaurants%20Personal%20Email%20Signature.png)
-
-
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
+# [![Tejas header](https://raw.githubusercontent.com/tejasnikumbh999/Tejas-Nikumbh/main/Blue%20and%20Off%20White%20Simple%20Blocks%20Food%20and%20Restaurants%20Personal%20Email%20Signature.png)]
 
 <h1 align="center">
 Hi there, I'm Tejas Nikumbh 👋
