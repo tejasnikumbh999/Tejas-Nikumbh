@@ -44,7 +44,7 @@ I love processing and learning from the data. I love the challenge of finding ca
 </td>
 
 <td align="center" width="50%">
-<img height=80px src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"> 
+<img height=80px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 
 </tr>
