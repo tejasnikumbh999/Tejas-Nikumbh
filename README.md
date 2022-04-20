@@ -1,6 +1,6 @@
 <h1>
  Hi there,
-      <br><t>I'm Tejas Nikumbh 👋</t>
+      <p>I'm Tejas Nikumbh 👋</p>
 </h1>
 
 <h2>
