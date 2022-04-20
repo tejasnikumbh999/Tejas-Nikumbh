@@ -1,11 +1,11 @@
 <p align="center">
     <img width="400" src="https://github.com/immangeek/immangeek/raw/main/face_animated.gif">
 
-<h1 align="center">
+<h1>
 Hi there, I'm Tejas Nikumbh 👋
 </h1>
 
-<h2 align="center">
+<h2>
 I'm a Data Scientist 💻, Bagpacker 🏕️, and Designer 🎨!
 </h2> 
 
