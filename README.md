@@ -111,7 +111,8 @@ I love processing and learning from the data. I love the challenge of finding ca
 </table>
 
 ## 📈 GitHub Stats 
-[![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=tejasnikumbh999&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/tejasnikumbh999/github-readme-stats)
+
+| ![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=tejasnikumbh999&show_icons=true&theme=tokyonight) | ![Tejas's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejasnikumbh999&theme=tokyonight) |
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=tejasnikumbh999)
 [![Github](https://img.shields.io/github/followers/tejasnikumbh999?label=Follow&style=social)](https://github.com/tejasnikumbh999)
