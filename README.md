@@ -1,6 +1,6 @@
 <h1>
-Hi there,
-      I'm Tejas Nikumbh 👋
+ Hi there,
+      <br><p>I'm Tejas Nikumbh 👋</p>
 </h1>
 
 <h2>
@@ -26,7 +26,7 @@ I love processing and learning from the data. I love the challenge of finding ca
 ## 🌱 I'm currently learning
 
 - Time series analysis
-- **Tablaue
+- **Tablaue**
 - Cloudera
 
 ## My Skills 
