@@ -6,7 +6,7 @@ Hi there, I'm Tejas Nikumbh 👋
 I'm a Data Scientist 💻, Bagpacker 🏕️, and Designer 🎨!
 </h2> 
 
-I love the process of processing and learning from the data. I love the challenge of finding caches and spending time to meet new people. 
+I love processing and learning from the data. I love the challenge of finding caches and spending time to meet new people. 
 
 ### 🤝 Connect with me:
 
